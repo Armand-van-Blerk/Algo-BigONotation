@@ -19,3 +19,6 @@ console.log(addUpTo(1000000000));
 // console.log(`Time elapsed: ${(t2 - t1) / 1000} seconds.`);
 
 // Total: 0.256 seconds
+
+// Counting operations: 1x multiplication 1x addition 1x division
+// 3 operations regardless of the size of (n)

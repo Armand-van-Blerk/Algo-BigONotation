@@ -25,3 +25,11 @@ But the problem with time is that different machines will compute at different s
 It won’t mean that we will get the opposite results on different machines, but rather small deviations when 2 machines are compared, but deviations none the less.
 Even on the same machine output will show deviations as you run the same code twice or maybe 3 times.
 For fast Algos, speed measurements may not be enough as processing speeds can differ and therefore not a correct measuring point as its not constant.
+
+Rather than counting the seconds it takes to preform the operation, count the number of operations being preformed.
+
+_Introducing Big-O_
+Big-O notation is a way to formalize fuzzy counting. It allows us to talk formaly about how the runtime of an algorithm grows as the inputs grow.
+O(n)
+O(1)
+O(n^2)
