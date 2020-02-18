@@ -7,4 +7,7 @@ function double(arr) {
   }
   return newArr;
 }
-double(1, 2, 3);
+double([1, 2, 3]);
+
+// the space that is taken up is directly preportionate to "n"
+// o(n) space

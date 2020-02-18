@@ -42,4 +42,5 @@ O(n^2)
 - Booleans, numbers, undefined, null are constant space.
 - Strings require O(n) space (where "n" is the string length)
 - Reference types are generaly O(n), where "n" is the legnth (for arrays) or the number of keys (for objects)
--
+
+5. Logaritms:
